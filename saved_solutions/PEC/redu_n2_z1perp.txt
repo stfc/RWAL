@@ -1,0 +1,1 @@
+-Gamma*x0*x68*x7*x78*(-x88 - x83*(x12*x18*x44 - x50*x71*x84 + x58*x84 + x66*x76 - x74*x86 - x77*x87)/x78)/(Q_m*alpha0*(-x68*x83*(alpha1*chi1*epsilon1*mu2*x0*x22*x23*x25*x35*x5*x66/4 + k*m*x12*x16*x44 - x27*x50*x84 - x56*x86 - x60*x87) - x88))

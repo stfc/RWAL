@@ -1,0 +1,1 @@
+-Gamma*x0*x7*(-x43*x72 - x44*x74 - x45*x75 - x69*(x12*x18*x42 - x47*x48*x73 - x50*x78 + x60*x76 - x65*(chi1*mu2*x28*x29*x33*x34*x73 - x57*x78 - x59*x77 - x61) + x76*x77) - x70)/(Q_m*alpha0*(-x32*x44 - x40*x45 - x69*(alpha1*chi1*epsilon1*mu2*x0*x21*x22*x24*x33*x46*x5/4 + k*m*x12*x16*x42 - x26*x47*x48 - x50*x55 - x65*(chi1*mu2*x26*x28*x29*x33*x34 - x55*x57 - x61)) - x70))
