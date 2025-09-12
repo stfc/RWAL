@@ -26,15 +26,11 @@ reasons for their inclusion are listed here.
 - Mpmath - Arbitrary precision library for large and small numbers
 - gmpy2 - Can make some parts of mpmath faster (optional)
 - scipy - For physical constants
+- pyfilon - Filon integration for computing wake from impedance
 - ipykernel - For Jupyter kernel
 - matplotlib - For plotting
 - tqdm - For a progress bar
-
-
-## Credits
-
-Wake functions are computed using Filon integration [4]. The implementation
-of this has been taken from the package [dynasor](https://gitlab.com/materials-modeling/dynasor). 
+- joblib - For computing some things in parallel
 
 
 # Installing and Running RWAL
